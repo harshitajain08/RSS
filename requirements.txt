@@ -1,0 +1,5 @@
+feedparser
+openai
+gspread
+oauth2client
+smtplib
